@@ -19,7 +19,7 @@ Add following methods to the class:
 
 + `conductPressInterview` — returns `I am proud to be an American.`
 
-+ `sayHi` — returns `Hi, my name is <name>. I am from <homestate>. I represent the <politcalParty>s, and was in office <yearsInOffice>.`
++ `sayHi` — returns `Hi, my name is <name>. I am from <homeState>. I represent the <politcalParty>s, and was in office <yearsInOffice>.`
 
 Then create the following presidents: George Washington, Abraham Lincoln, Richard Nixon, and Jimmy Carter.
 
